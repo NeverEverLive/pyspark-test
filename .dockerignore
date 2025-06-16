@@ -1,0 +1,5 @@
+poetry.lock
+.venv
+docker-compose.yaml
+README.md
+Dockerfile
